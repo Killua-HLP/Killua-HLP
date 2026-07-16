@@ -8,7 +8,7 @@
 
 Hi! I am KIllua HLP
 
-I am First Year Vocational school Learning Data Processing in Tokyo,Japan
+I am First Year Vocational school students.Currently learning Data Processing in Tokyo,Japan
 Goal: Backend Engineer
 Current Learning: Python/FastAPI/PostgreSQL/SQLAlchemy/JWT
 Passionate about: Anime/Game/V-Tuber/Manga/Light Novel 
